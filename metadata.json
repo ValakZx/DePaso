@@ -1,0 +1,8 @@
+{
+  "name": "DePaso",
+  "description": "PWA de crowdshipping P2P universitario en Ecuador: encargos de camino, pool de viajeros, pagos directos Deuna y entrega verificada con PIN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
